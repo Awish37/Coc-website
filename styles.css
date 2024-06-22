@@ -163,6 +163,9 @@ footer a:hover {
         width: 48%;
         margin-bottom: 1rem;
     }
+    nav ul li .dropdown-content {
+        left: 20%;
+        top: 0;
 }
 
 @media (max-width: 480px) {

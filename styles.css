@@ -137,6 +137,17 @@ footer a {
 footer a:hover {
     text-decoration: underline;
 }
+/* Login Icon Styling */
+header .login-icon {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+}
+
+header .login-icon img {
+    width: 50px;
+    height: 50px;
+}
 /* Media Queries */
 @media (max-width: 768px) {
     nav ul {
